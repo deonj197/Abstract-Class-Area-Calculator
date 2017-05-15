@@ -7,19 +7,19 @@ abstract class ShapeAbstractClass {
 	
 	public static void main(String[] args) throws IOException{
 		String menu = "              _______________________________ \n"
-                    + "             |                               |\n"
-                    + "             |        ***Main Menu***        |\n"
-                    + "             |                               |\n"               
-                    + "             |  Select a shape from the      |\n"
-                    + "             |  options below and enter      |\n"
-                    + "             |  its corresponding character  |\n"
-                    + "             |                               |\n"                    
-                    + "             |  - Circle:     'c'            |\n"
-                    + "             |  - Rectangle:  'r'            |\n"
-                    + "             |  - Triangle:   't'            |\n"
-                    + "             |  - Square:     's'            |\n"
-                    + "             |                               |\n"                    
-	                + "             |   Note: '**' = Invalid input  |\n"
+                    	    + "             |                               |\n"
+                            + "             |        ***Main Menu***        |\n"
+                            + "             |                               |\n"               
+                            + "             |  Select a shape from the      |\n"
+                            + "             |  options below and enter      |\n"
+                            + "             |  its corresponding character  |\n"
+                            + "             |                               |\n"                    
+                            + "             |  - Circle:     'c'            |\n"
+                            + "             |  - Rectangle:  'r'            |\n"
+                            + "             |  - Triangle:   't'            |\n"
+                            + "             |  - Square:     's'            |\n"
+                            + "             |                               |\n"                    
+	                    + "             |   Note: '**' = Invalid input  |\n"
 		            + "             |_______________________________|\n";
 					
 

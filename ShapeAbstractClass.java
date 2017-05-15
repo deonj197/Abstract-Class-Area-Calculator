@@ -6,7 +6,8 @@ abstract class ShapeAbstractClass {
 	abstract double findArea();
 	
 	public static void main(String[] args) throws IOException{
-		String menu = "              _______________________________ \n"
+		String menu = 
+		              "              _______________________________ \n"
                     + "             |                               |\n"
                     + "             |        ***Main Menu***        |\n"
                     + "             |                               |\n"               
@@ -19,8 +20,8 @@ abstract class ShapeAbstractClass {
                     + "             |  - Triangle:   't'            |\n"
                     + "             |  - Square:     's'            |\n"
                     + "             |                               |\n"                    
-					+ "             |   Note: '**' = Invalid input  |\n"
-					+ "             |_______________________________|\n";
+	                + "             |   Note: '**' = Invalid input  |\n"
+		            + "             |_______________________________|\n";
 					
 
 		
